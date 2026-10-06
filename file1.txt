@@ -3,3 +3,5 @@ Hello , we are learning git
 working on some task
 
 my task is done
+
+new changes added
